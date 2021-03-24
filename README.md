@@ -2,15 +2,16 @@
 Gives info about food
 
 ## About
-Takes the users input and puts it into the nutritionix api. the api on rapidapi: https://rapidapi.com/msilverman/api/nutritionix-nutrition-database
+Takes the users input and puts it into the nutritionix API. Get the API key on rapidapi: https://rapidapi.com/msilverman/api/nutritionix-nutrition-database.
+This API only supports fat and calories.
 
 ## Examples
-* "How many crabs"
-* "How many calories"
-* "How much fat"
+* "Nutrition facts for apples"
+* "What's in a steak"
+* "dark chocolate nutrition"
 
 ## Credits
-Bacon
+Pydev2007
 
 ## Category
 **Daily**
