@@ -1,0 +1,8 @@
+{ "skillMetadata": { "sections": [ { "name": "Put your api key here. You can get it from: https://rapidapi.com/msilverman/api/nutritionix-nutrition-database", "fields": [ { "name": "ApiKey", "type": "password", "label": "Api key goes here", 
+                        "value": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
